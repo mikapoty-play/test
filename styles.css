@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+p {
+font-family: 'Nunito Sans';
+  font-style: italic;
+  font-weight: 200 1000;
+  font-stretch: 100%;
+}
+
+h1 {
+font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  text-align: center;
+}
+body {
+    background-color: #ff93ac;
+    background-image: url("https://androidcentral.us/wp-content/uploads/2013/11/Novo-Wallpaper.png");
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+header {
+font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  text-align: left;
+}
+h2 {
+font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  text-align: center;
+}
